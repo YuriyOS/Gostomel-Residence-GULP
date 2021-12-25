@@ -1,0 +1,11 @@
+.residence-heading-bg {
+  background-image: url("/img/residence/intro/house-intro-left.jpg");
+
+  &:before {
+    background: rgba(20, 20, 20, .92);
+  }
+}
+
+.residence-photo-bg {
+  background-image: url("/img/residence/intro/house-intro-right@2x.jpg");
+}
